@@ -1,4 +1,4 @@
-# Daily Routine Tracker
+# My Data My Story
 This repository contains an Excel spreadsheet used to maintain and track my daily routine, activities, schedule, and time allocation.
 
 ## File Description
